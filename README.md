@@ -15,7 +15,6 @@ There are a number of different ways for you to setup your skill, depending on y
 
 ## Additional Resoures
 
-### Documentation
 ### Community
 * [Amazon Developer Forums](https://forums.developer.amazon.com/spaces/23/index.html) - Join the conversation!
 * [Slack](https://amazonalexa.slack.com/) - Join the conversation! ([signup page](http://www.alexaslack.com/)). 
