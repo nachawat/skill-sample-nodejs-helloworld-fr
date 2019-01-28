@@ -29,7 +29,7 @@ ask deploy
 
 > **Important:** ASK CLI will create the skill and the lambda function for you. The Lambda function will be created in `us-east-1 (Northern Virginia)` by default.
 
-6. Open to the [Alexa Developer Console](https://developer.amazon.com/alexa/console/ask)
+6. Open the [Alexa Developer Console](https://developer.amazon.com/alexa/console/ask)
 
 7. Click on your newly created Skill.
 
