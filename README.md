@@ -22,7 +22,7 @@ There are a number of different ways for you to setup your skill, depending on y
 ### Tutorials & Guides
 * [Voice Design Guide](https://developer.amazon.com/designing-for-voice/) - A great resource for learning conversational and voice user interface design.
 
-* [Video Series: Building Alexa Skills from Scratch](http://alexa.design/videotutorial) - Learn how to build an Alexa Skill from within your browser with this beginner friendly tutorial on Codecademy!
+* [Video Series: Building Alexa Skills from Scratch](http://alexa.design/videotutorial) - Learn how to build an Alexa Skill from this video series!
 
 ### Documentation
 * [Official Alexa Skills Kit SDK for Node.js](http://alexa.design/node-sdk-docs) - The Official Node.js SDK Documentation
