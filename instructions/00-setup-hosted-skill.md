@@ -26,7 +26,7 @@ You will create and test your First Alexa Skill fully from the [Alexa Developer 
 
 > **Important**: You must successfully build the model before you can test it.
 
-### Bravo ! You have just created your first Interaction Model. You will know created your Skill backend.
+### Bravo ! You have just created your first Interaction Model. Now, you will create your Skill backend.
 
 6. Navigate to `Code` Tab and copy-paste [this backend code](https://github.com/nachawat/skill-sample-nodejs-helloworld-fr/blob/master/lambda/custom/index.js)
 
@@ -44,9 +44,9 @@ You will create and test your First Alexa Skill fully from the [Alexa Developer 
 
 > **Important**: You must successfully deploy the code before you can test it.
 
-### Bravo ! You have just created your first Skill backend from the Alexa Developer Console using Alexa Skill Kit (ASK) SDKv2 for Node.js. You will know test your Skill backend.
+### Bravo ! You have just created your first Skill backend from the Alexa Developer Console using Alexa Skill Kit (ASK) SDKv2 for Node.js. Now, you will test your Skill backend.
 
-9. Navigate to the `Code` Tab and enter the following utterance in the simulator ```ouvre mon atelier```
+9. Navigate to the `Test` Tab and enter the following utterance in the simulator ```ouvre mon atelier```
 
 ![skill_test_simulator](./images/skill_test_simulator.png)
 
